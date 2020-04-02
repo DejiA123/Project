@@ -1,0 +1,3 @@
+Edited my poster. Made adjustments to the texts. Added bluetooth logo and L298N H Bridge to my diagram.
+Connected ESP 32 to my smartphone with the ESP 32 inbuilt bluetooth.
+Got the temperature and humidity readings displaying on my smartphone through Bluetooth with android bluetooth terminal app.
