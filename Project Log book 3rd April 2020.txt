@@ -1,0 +1,1 @@
+Got the gas sensor working on the serial monitor, and also displaying the live readings on the android app through bluetooth. 
