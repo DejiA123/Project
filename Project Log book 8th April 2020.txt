@@ -1,0 +1,2 @@
+Displayed Temperature, Humidity and Gas sensor on my Android App. 
+Worked on the ESP32 Cam. Issue with the ESP32 cam, it won't connect. 
