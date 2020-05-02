@@ -1,0 +1,2 @@
+Motors Working, connected to L298N with it Powered with 9V Battery and ground of L298N connected to Arduino. 
+Added the IP input area to the Motor Control app section of my app, to allow the App to control the motor over WiFi. 
