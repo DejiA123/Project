@@ -1,2 +1,0 @@
-Worked on my android app. 
-Worked on the arduino code. 
