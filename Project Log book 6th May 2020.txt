@@ -1,2 +1,2 @@
 Worked on my android app. 
-Worked on the android code. 
+Worked on the arduino code. 
