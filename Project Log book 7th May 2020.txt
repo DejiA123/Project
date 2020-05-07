@@ -1,0 +1,3 @@
+Motor Controlled with android App working through WiFi. 
+Some modifications to poster and android app. 
+ESP32 Powered up with 9V battery. 
