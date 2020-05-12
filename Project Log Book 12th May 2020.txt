@@ -1,0 +1,3 @@
+Some Research on the ESP32 CAM. 
+Research on Arduino Serial Monitor.
+ESP32Cam, all sensors, and Motor control working with the Android App. 
